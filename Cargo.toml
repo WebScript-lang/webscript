@@ -1,0 +1,2 @@
+[workspace]
+members = ["webscript_core", "webscript_runtime"]

@@ -1,0 +1,6 @@
+[submodule "webscript_core"]
+	path = webscript_core
+	url = https://github.com/WebScript-lang/webscript_core.git
+[submodule "webscript_runtime"]
+	path = webscript_runtime
+	url = https://github.com/WebScript-lang/webscript_runtime.git
